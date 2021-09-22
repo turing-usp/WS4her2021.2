@@ -2,15 +2,15 @@
 
 ----
 
-## Tema: Introdução à Finanças Quantitativas
+## Tema: Introdução às Finanças Quantitativas
 
 O Workshop for Her é um  evento pensado para aproximar as mulheres da área de Data Science, Machine Learning e Inteligência Artificial.
 
-Na edição 2021.2, feita em outubro, o tema será "Introdução à Finanças Quantitativas". Por conta da pandemia de COVID-19, essa edição será online.
+Na edição 2021.2, feita em outubro, o tema será "Introdução às Finanças Quantitativas". Por conta da pandemia de COVID-19, essa edição será online.
 
 
 ### Conteúdos:
-1. O que é Finanças Quantitativas?
+1. O que são Finanças Quantitativas?
 2. Importando preços históricos de ações
 3. Retorno e risco (Ação e Portfólio) 
 4. Sharpe ratio
